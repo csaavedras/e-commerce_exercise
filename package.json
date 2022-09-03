@@ -1,0 +1,11 @@
+{
+  "name": "e-commerce_exercise",
+  "version": "1.0.0",
+  "description": "prueba tecnica para BSALE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Saavedra",
+  "license": "ISC"
+}
